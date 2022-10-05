@@ -1,5 +1,5 @@
 # Online Boutique Assignment
-
+#trigger##
 The CI-CD system of your organization is broken and you have been asked to deploy the latest release on the Production environment, but as a prerequisite you are supposed to first deploy the application on your a test environment (your local machine) and see if the application is ready to be promoted on the Production cluster or not.
 
 The latest release has some critical bug fixes as well as some most anticipated features that you clients were asking for. So the release has to be taken on the Production as early as possible. Now you are left only with the Kubernetes YAML manifests files and the instructions to deploy/test the application on the local environment.
